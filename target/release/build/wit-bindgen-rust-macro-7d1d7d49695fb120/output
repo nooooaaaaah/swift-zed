@@ -1,0 +1,2 @@
+cargo:rerun-if-changed=build.rs
+cargo:rustc-env=DEBUG_OUTPUT_DIR=/Users/noahspielman/Library/Application Support/Zed/extensions/installed/swift-main/target/release/build/wit-bindgen-rust-macro-7d1d7d49695fb120/out

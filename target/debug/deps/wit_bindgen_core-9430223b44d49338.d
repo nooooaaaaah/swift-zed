@@ -1,0 +1,10 @@
+/Users/noahspielman/Downloads/swift-main/target/debug/deps/libwit_bindgen_core-9430223b44d49338.rmeta: /Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/lib.rs /Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/abi.rs /Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/ns.rs /Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/source.rs
+
+/Users/noahspielman/Downloads/swift-main/target/debug/deps/libwit_bindgen_core-9430223b44d49338.rlib: /Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/lib.rs /Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/abi.rs /Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/ns.rs /Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/source.rs
+
+/Users/noahspielman/Downloads/swift-main/target/debug/deps/wit_bindgen_core-9430223b44d49338.d: /Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/lib.rs /Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/abi.rs /Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/ns.rs /Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/source.rs
+
+/Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/lib.rs:
+/Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/abi.rs:
+/Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/ns.rs:
+/Users/noahspielman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wit-bindgen-core-0.22.0/src/source.rs:

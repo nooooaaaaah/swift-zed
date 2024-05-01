@@ -1,0 +1,17 @@
+id = "swiftlsp"
+name = "Swift-LSP"
+description = "Swift support."
+version = "0.0.1"
+schema_version = 1
+authors = []
+repository = ""
+languages = ["languages/swift"]
+
+[lib]
+kind = "Rust"
+version = "0.0.4"
+
+
+[language_servers.sourcekit-lsp]
+language = "Swift Lsp"
+languages = []
